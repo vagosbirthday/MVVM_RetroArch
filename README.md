@@ -1,1 +1,1 @@
-# Motivational_-App
+# Motivational App
