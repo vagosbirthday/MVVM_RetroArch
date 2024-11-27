@@ -27,4 +27,6 @@ data class Quote(
     val q: String,  // Contenido de la frase  
     val a: String   // Autor de la frase  
 )
-'''
+
+ViewModel
+El ViewModel actúa como puente entre la vista y el modelo. Solicita datos de la API y los expone para ser observados por la vista.
