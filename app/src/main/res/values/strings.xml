@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Motivational_App</string>
     <string name="error_api">La api Fallo</string>
+    <string name="btn_phrase">Nueva Frase</string>
 </resources>

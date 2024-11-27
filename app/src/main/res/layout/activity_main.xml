@@ -15,7 +15,7 @@
 
 
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/Phrase"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/error_api"
@@ -23,6 +23,16 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/btn_Phr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="@string/btn_phrase"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Phrase" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
